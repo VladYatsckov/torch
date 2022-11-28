@@ -1,0 +1,21 @@
+div {
+    background-color: brown;
+    height: 200px;
+    width: 600px;
+}
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: aliceblue;
+}
+.torch {
+    height: 400px;
+    width: 300px;
+    background-color: blue;
+}
+.ball {
+    height: 250px;
+    width: 100px;
+    background-color: aliceblue
+    ;
+}

@@ -1,0 +1,13 @@
+div {
+    background-color: blueviolet;
+    width: 400px;
+    height: 400px;
+}
+.knife {
+  background-color: brown;
+  width: 200px;
+  height: 200px;
+}
+.finger {
+  font-size: 100px;
+}
